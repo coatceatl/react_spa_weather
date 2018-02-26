@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/coatceatl/react_spa_weather/issues"
   },
-  "homepage": "https://github.com/coatceatl/react_spa_weather#readme"
+  "homepage": "https://github.com/coatceatl/react_spa_weather#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
